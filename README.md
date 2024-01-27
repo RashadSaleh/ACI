@@ -1,2 +1,4 @@
 # ACI
-Artificial Conceptual Intelligence
+*Artificial Conceptual Intelligence*
+
+Read the theory [here](./theory.md).
